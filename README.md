@@ -7,6 +7,7 @@ Selected projects from my 100 Days of Python learning journey.
 - Day 05 – Password Generator
 - Day 07 – Hangman
 - Day 10 - Calculator
+- Day 11 - Blackjack
 
 ## 🧰 Technologies
 - Python 3
