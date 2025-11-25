@@ -9,6 +9,7 @@ Selected projects from my 100 Days of Python learning journey.
 - Day 10 - Calculator
 - Day 11 - Blackjack
 - Day 14 - Higher or Lower
+- Day 15 - Coffee Machine
 
 ## 🧰 Technologies
 - Python 3
