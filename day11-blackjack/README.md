@@ -18,9 +18,9 @@ A console-based Blackjack game written in Python, featuring ASCII card art for a
 
 **Option 1: Python Version**
 1. Clone the repo:
-   git clone https://github.com/a-small-dev/100-Days-of-Python/day11-blackjack.git
+   git clone https://github.com/a-small-dev/100-Days-of-Python.git
 2. Navigate into the folder:
-   cd day11-blackjack
+   cd 100-Days-of-Python/day11-blackjack
 3. Run the game:
    python main.py
 
