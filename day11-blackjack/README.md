@@ -25,7 +25,7 @@ A console-based Blackjack game written in Python, featuring ASCII card art for a
    python main.py
 
 **Option 2: Standalone `.exe`**
-- Double-click the included `blackjack.exe` to play on Windows — no Python installation required.
+- Double-click the included `32bit-blackjack.exe` or `64bit-blackjack.exe` to play on Windows (Depending on your architecture) — no Python installation required.
 
 ---
 
