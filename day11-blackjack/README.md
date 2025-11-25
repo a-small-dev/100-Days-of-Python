@@ -53,7 +53,7 @@ A console-based Blackjack game written in Python, featuring ASCII card art for a
 day11-blackjack/
 ├─ main.py           # Main game logic
 ├─ art.py            # ASCII art for cards and logos
-├─ blackjack.exe     # Standalone Windows executable
+├─ 32/64bit-blackjack.exe     # Standalone Windows executables
 └─ README.md         # This file
 
 ---
