@@ -10,9 +10,12 @@ Selected projects from my 100 Days of Python learning journey.
 - Day 11 - Blackjack
 - Day 14 - Higher or Lower
 - Day 15 - Coffee Machine
+- Day 16 - OOP Coffee Machine
+- Day 20 - Snake Game
 
 ## 🧰 Technologies
 - Python 3
+- Turtle (standard graphics module)
 
 ## 🎯 Goal
 To document and share my progress and projects as I complete the 100 Days of Python Udemy class.
