@@ -15,7 +15,7 @@ The project is structured using OOP with separate modules for the snake, food, s
 
 ## Project Structure
 
-.
+
 ├── main.py  
 ├── snake.py  
 ├── food.py  
