@@ -12,6 +12,7 @@ Selected projects from my 100 Days of Python learning journey.
 - Day 15 - Coffee Machine
 - Day 16 - OOP Coffee Machine
 - Day 20 - Snake Game
+- Day 21 - Pong
 
 ## 🧰 Technologies
 - Python 3
