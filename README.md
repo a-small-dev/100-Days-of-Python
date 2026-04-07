@@ -13,6 +13,7 @@ Selected projects from my 100 Days of Python learning journey.
 - Day 16 - OOP Coffee Machine
 - Day 20 - Snake Game
 - Day 21 - Pong
+- Day 22 - Turtle Crossing
 
 ## 🧰 Technologies
 - Python 3
