@@ -49,13 +49,13 @@ A message will display showing the highest level you reached.
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 - Python
 - Turtle Graphics
 
 ---
 
-## 📄 License
+##  License
 
 This project is open-source and free to use.
