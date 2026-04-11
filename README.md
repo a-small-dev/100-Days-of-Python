@@ -14,6 +14,7 @@ Selected projects from my 100 Days of Python learning journey.
 - Day 20 - Snake Game
 - Day 21 - Pong
 - Day 22 - Turtle Crossing
+- Day 28 - Pomodoro Study Buddy
 
 ## 🧰 Technologies
 - Python 3
