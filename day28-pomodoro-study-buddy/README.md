@@ -35,7 +35,7 @@ Pomodoro Study Buddy follows the classic Pomodoro Technique:
 
 You can download and run the app without installing Python:
 
-👉 **Download:** `PomodoroStudyBuddy.zip`
+**Download:** `PomodoroStudyBuddy.zip`
 
 ### How to run:
 1. Download the `.zip`
@@ -50,3 +50,7 @@ Note: Windows may show a warning for unsigned applications. This is normal for s
 main.py                 # Core application logic
 tomato.png              # UI asset
 PomodoroStudyBuddy.zip  # Packaged executable for Windows
+
+##  License
+
+This project is open-source and free to use.
