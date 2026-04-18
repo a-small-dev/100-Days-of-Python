@@ -1,0 +1,61 @@
+Term,Definition
+Algorithm,"A step-by-step procedure or set of rules designed to solve a problem efficiently, focusing on minimizing time and space complexity."
+Data Structure,"A method of organizing and storing data to enable efficient access and modification, such as arrays, lists, and trees."
+Variable,A named reference to a memory location that stores a value which can change during program execution.
+Data Type,A classification that specifies the type of value a variable holds and the operations that can be performed on it.
+Integer,"A whole number data type without a fractional component, used for counting and indexing."
+Float,A numeric data type that represents decimal or real numbers with precision limitations.
+String,A sequence of characters used to represent text data.
+Boolean,"A data type that represents one of two values: True or False, commonly used in logic and conditions."
+List,"An ordered, mutable collection that allows duplicate elements and dynamic resizing."
+Tuple,"An ordered, immutable collection used for fixed data that should not change."
+Dictionary,A collection of key-value pairs that allows fast retrieval of values using unique keys.
+Set,An unordered collection of unique elements useful for eliminating duplicates.
+Function,A reusable block of code that performs a specific task and can return a result.
+Parameter vs Argument,"A parameter is a variable in a function definition, while an argument is the actual value passed during a function call."
+Return Statement,A statement that exits a function and optionally sends a value back to the caller.
+Conditional Statement,Controls the flow of execution based on whether a condition evaluates to True or False.
+Loop,A control structure that repeats a block of code multiple times.
+For Loop,A loop used to iterate over a sequence like a list or range.
+While Loop,A loop that continues executing as long as a specified condition is True.
+Class,"A blueprint for creating objects, defining their attributes and methods."
+Object,An instance of a class that contains actual data and behavior.
+Method,A function defined inside a class that operates on its objects.
+Attribute,A variable associated with a class or object that stores data.
+Encapsulation,The practice of bundling data and methods together while restricting direct access to some components.
+Inheritance,A feature that allows a class to acquire properties and behavior from another class.
+Polymorphism,The ability to use a single interface to represent different underlying data types or objects.
+Abstraction,The concept of hiding complex implementation details and exposing only essential features.
+Recursion,A technique where a function calls itself to solve smaller instances of a problem.
+Stack,"A Last-In, First-Out data structure used in function calls and memory management."
+Queue,"A First-In, First-Out data structure used in scheduling and data processing."
+Array,"A collection of elements stored in contiguous memory locations, allowing efficient indexing."
+Index,"The position of an element within a sequence, starting from zero in Python."
+Slicing,The process of extracting a portion of a sequence using index ranges.
+Exception,An error that occurs during the execution of a program.
+Try/Except,A structure used to handle exceptions and prevent program crashes.
+Debugging,"The process of identifying, analyzing, and fixing errors in code."
+Syntax,The set of rules that defines the structure of valid code.
+Runtime,The period during which a program is actively executing.
+Interpreter,A program that executes code line-by-line rather than compiling it all at once.
+Compiler,A program that translates source code into machine code before execution.
+Big O Notation,A mathematical notation used to describe the performance or complexity of an algorithm.
+Time Complexity,A measure of how the execution time of an algorithm grows with input size.
+Space Complexity,A measure of how much memory an algorithm uses relative to input size.
+Binary Search,An efficient search algorithm that repeatedly divides a sorted dataset in half.
+Linear Search,A simple search algorithm that checks each element sequentially.
+Sorting,The process of arranging data in a specific order such as ascending or descending.
+Hash Table,A data structure that maps keys to values using a hash function for fast access.
+Hash Function,A function that converts input data into a fixed-size value used for indexing.
+Collision,A situation where two inputs produce the same hash value.
+Graph,A collection of nodes and edges used to represent relationships.
+Tree,A hierarchical data structure consisting of nodes with parent-child relationships.
+Linked List,A linear data structure where elements are stored in nodes connected by pointers.
+Pointer,A variable that stores the memory address of another variable.
+Memory,The hardware component where data and programs are stored during execution.
+Thread,The smallest unit of execution within a process.
+Process,An instance of a program that is being executed.
+Concurrency,The ability to manage multiple tasks at once.
+Parallelism,The simultaneous execution of multiple tasks.
+API,A set of rules that allows different software systems to communicate.
+Database,An organized collection of structured data for efficient storage and retrieval.
