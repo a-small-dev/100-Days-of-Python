@@ -23,7 +23,7 @@ for _, row in birthdays.iterrows():
         connection.sendmail(from_addr=MY_EMAIL, to_addrs=birthday_person_email, msg=f"Subject: Happy Birthday {birthday_person_name}!\n\n"
                                                                                     f"Congrats on turning the big ol {birthday_person_age}!\n"
                                                                                     f"Hope you have a great day and eats lots of cake for me!\n\n"
-                                                                                    f"Love,\nBubba")
+                                                                                    f"Love,\n**Your Name**")
     connection.close()
 
 if day_name == "Monday":
