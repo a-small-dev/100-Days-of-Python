@@ -16,6 +16,9 @@ Selected projects from my 100 Days of Python learning journey.
 - Day 22 - Turtle Crossing
 - Day 28 - Pomodoro Study Buddy
 - Day 31 - Flash Cards
+- Day 32 - Automated Email Bot
+- Day 33 - ISS Overhead Alert System
+- Day 34 - CS Quiz App
 
 ## Technologies
 - Python 3
