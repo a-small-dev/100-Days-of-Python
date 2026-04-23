@@ -19,6 +19,7 @@ Selected projects from my 100 Days of Python learning journey.
 - Day 32 - Automated Email Bot
 - Day 33 - ISS Overhead Alert System
 - Day 34 - CS Quiz App
+- Day 36 - Stock Alert Tracker
 
 ## Technologies
 - Python 3
