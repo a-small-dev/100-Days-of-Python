@@ -45,7 +45,7 @@ A Python-based flight monitoring tool that checks for low prices on selected rou
 ### 1. Clone the Repository
 
 git clone https://github.com/a-small-dev/100-Days-of-Python.git
-cd 100-Days-of-Python/day39-flight-price-tracker 
+cd 100-Days-of-Python/day39-flight-price-tracker
 
 ### 2. Install Dependencies
 
