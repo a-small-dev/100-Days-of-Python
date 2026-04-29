@@ -2,7 +2,6 @@
 Selected projects from my 100 Days of Python learning journey.
 
 ## Projects
-
 - Day 04 – Rock, Paper, Scissors
 - Day 05 – Password Generator
 - Day 07 – Hangman
@@ -20,12 +19,20 @@ Selected projects from my 100 Days of Python learning journey.
 - Day 33 - ISS Overhead Alert System
 - Day 34 - CS Quiz App
 - Day 36 - Stock Alert Tracker
+- Day 39 - Flight Price Tracker
 
 ## Technologies
 - Python 3
-- Turtle (standard graphics module)
-- Tkinter (standard GUI library)
-- pandas
+- Object-Oriented Programming (OOP)
+- REST APIs & HTTP Requests (requests)
+- JSON Data Handling
+- Data Analysis (pandas)
+- GUI Development (Tkinter)
+- Graphics & Game Development (Turtle)
+- Email Automation (smtplib)
+- Date & Time Handling (datetime, python-dateutil)
+- Environment Variables & Security Practices
+- Third-Party APIs (e.g., SerpAPI, Sheety, OpenWeather)
 
 ## Goal
 To document and share my progress and projects as I complete the 100 Days of Python Udemy class.
