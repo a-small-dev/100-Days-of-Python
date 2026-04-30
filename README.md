@@ -20,6 +20,7 @@ Selected projects from my 100 Days of Python learning journey.
 - Day 34 - CS Quiz App
 - Day 36 - Stock Alert Tracker
 - Day 39 - Flight Price Tracker
+- Day 45 - Top 100 Movies Web Scraper
 
 ## Technologies
 - Python 3
@@ -32,6 +33,7 @@ Selected projects from my 100 Days of Python learning journey.
 - Email Automation (smtplib)
 - Date & Time Handling (datetime, python-dateutil)
 - Environment Variables & Security Practices
+- Web Scraping / BeautifulSoup4
 - Third-Party APIs (e.g., SerpAPI, Sheety, OpenWeather)
 
 ## Goal
