@@ -21,20 +21,26 @@ Selected projects from my 100 Days of Python learning journey.
 - Day 36 - Stock Alert Tracker
 - Day 39 - Flight Price Tracker
 - Day 45 - Top 100 Movies Web Scraper
+- Day 47 - Amazon Price Tracker
+- Day 49 - Automated Gym Booking System
+- Day 53 - Zillow Scraper -> Google Form Automation
 
 ## Technologies
 - Python 3
 - Object-Oriented Programming (OOP)
 - REST APIs & HTTP Requests (requests)
 - JSON Data Handling
-- Data Analysis (pandas)
+- Web Scraping (BeautifulSoup4)
+- Web Automation (Selenium)
+- Git & GitHub version control
 - GUI Development (Tkinter)
-- Graphics & Game Development (Turtle)
+- Game Development (Turtle graphics)
+- Data Handling & File I/O
+- Date & Time Handling (datetime)
 - Email Automation (smtplib)
-- Date & Time Handling (datetime, python-dateutil)
-- Environment Variables & Security Practices
-- Web Scraping / BeautifulSoup4
-- Third-Party APIs (e.g., SerpAPI, Sheety, OpenWeather)
+- Environment Variables & Basic Security (.env usage)
+- Automation Scripting
+- Web Data Pipelines (Scrape → Process → Automate)
 
 ## Goal
 To document and share my progress and projects as I complete the 100 Days of Python Udemy class.
